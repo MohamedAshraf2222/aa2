@@ -1,0 +1,55 @@
+.carousel .slide .legend {
+  background: transparent;
+  color: #fff;
+  top: 0;
+  left: 0;
+  height: max-content;
+  z-index: 10;
+  font-size: 46px;
+  opacity: 1;
+  font-family: "Ubuntu", sans-serif;
+  padding: 0;
+  bottom: 0;
+  text-align: left;
+  max-width: 75%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-left: 40px;
+  height: 100%;
+  flex-direction: column;
+}
+@media (min-width: 640px) and (max-width: 1024px) {
+  .carousel .slide .legend {
+    font-size: 32px;
+  }
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .carousel .slide .legend {
+    font-size: 20px;
+  }
+}
+
+.counter-area-gradient {
+ background: rgb(164,43,43);
+background: linear-gradient(180deg, rgba(164,43,43,1) 0%, rgba(164,43,43,0.9024859943977591) 100%);
+}
+
+/* 
+{    background: transparent;
+    color: #fff;
+    height: max-content;
+    z-index: 10;
+    font-size: 46px;
+    opacity: 1;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0;
+    text-align: left;
+    max-width: 70%;
+    display: flex
+;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;} */

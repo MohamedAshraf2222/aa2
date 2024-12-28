@@ -1,0 +1,80 @@
+{
+  "header": {
+    "message": "Welcome"
+  },
+  "home": {
+    "body": "boddddy"
+  },
+  "navbar": {
+    "home": "Home",
+    "services": "Our Services",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "carousel": {
+    "ac": {
+      "header": "Air Conditioning Maintenance Services",
+      "desc": "Keep cool with Glowing Competencies Maintenance Services. Our expert team ensures your air conditioning runs efficiently, providing reliable maintenance for your comfort. Trust Glowing Competencies for quality service, keeping your space comfortable all year round.",
+      "mobileDesc": "Our expert team ensures your air conditioning runs efficiently."
+    },
+    "commercialKitchen": {
+      "header": "Commercial Kitchen Maintenance Services",
+      "desc": "From appliance tune-ups to thorough cleaning, we ensure your kitchen tools are in top shape. Elevate your cooking game with our expert care, keeping your kitchen running smoothly and stylishly. Experience the difference with our tailored maintenance solutions today!",
+      "mobileDesc": "we ensure your kitchen tools are in top shape."
+    },
+    "medicalEquipment": {
+      "header": "Precision Medical Equipment Care",
+      "desc": "Rely on Our Experts for precision care. Our skilled team ensures peak performance of medical equipment, safeguarding reliability and efficiency in healthcare settings. Trust us for meticulous maintenance solutions.",
+      "mobileDesc": "Our skilled team ensures peak performance of medical equipment."
+    }
+  },
+  "aboutArea": {
+    "header": "Glowing Competencies Establishment",
+    "desc": "Our Technical services providing you best services. Our trusted partner for a wide range of maintenance services. With a commitment to excellence, we specialize in providing top-notch solutions to meet the unique needs of your commercial kitchen, air conditioning, medical equipment, winding electric motors."
+  },
+  "counterArea": {
+    "header": "Best Technical Appliance Repair Establishment",
+    "projects": "Completed Projects",
+    "workers": "Experienced Workers"
+  },
+  "serviceArea": {
+    "what": "What We Do?",
+    "header": "We’re providing best repair services",
+    "allServicesBtn": "See All Services",
+    "detailsBtn": "See Details"
+  },
+  "service": {
+    "header": "Our Services"
+  },
+  "serviceDetails": {
+    "header": "Service Details",
+    "contactBtn": "Contact Us",
+    "contactBox": {
+      "p1": "Don't hesitate to reach out.",
+      "p2": "We're here to support you every step of the way."
+    }
+  },
+  "contact": {
+    "header": "Contact Us",
+    "p1": "Enjoy professional kitchen equipment maintenance services with our team of skilled and trained technicians to ensure your equipment is operating at peak efficiency.",
+    "p2": "We provide maintenance at the customer's location",
+    "p3": "Contact us: +966543777271",
+    "p4": "Do not hesitate to contact us for kitchen equipment maintenance services for restaurants, hotels, hospitals and cafes 24/7",
+    "p5": "We guarantee you quality service and complete satisfaction, Al-Kafaat Al-Mutahhaja Establishment for Home Appliances, Air Conditioning and Maintenance - Dammam Restaurant Equipment Maintenance Service - We are here to serve you"
+  },
+  "about": {
+    "header": "About Us",
+    "glowing": "Glowing Proficiencies Establishment",
+    "p1":"Glowing Competencies Establishment for Maintenance Services Maintenance of kitchen equipment for restaurants, cafes, hotels and hospitals in Riyadh, Dammam, Al Kharj and Tabuk Kitchen equipment maintenance is essential to ensure the continuity of efficient operation of hotels, restaurants, cafes, companies and hospitals. At Glowing Competencies, we are proud to provide distinguished maintenance services for kitchen equipment in more than one region. Restaurant equipment maintenance services include periodic equipment maintenance, immediate repair, comprehensive inspection, renewal and installation of equipment and customized maintenance programs. Why Glowing Competencies for Restaurant Equipment Maintenance? We pride ourselves on providing high-quality maintenance equipment and uncompromising performance. We always strive to provide the latest and most advanced technology in the field of restaurant equipment maintenance to ensure the comfort of our customers and the continuity of their work. Enjoy professional kitchen equipment maintenance services with our team of skilled and trained technicians to ensure the equipment operates with high efficiency.",
+    "p2":"Contact us at: 0543777271 Do not hesitate to contact us for kitchen equipment maintenance services for restaurants, hotels, hospitals and cafes 24 hours a day, 7 days a week. We guarantee you quality service and complete satisfaction. Al-Kafaat Al-Mutahhaja Establishment for Home Appliances, Air Conditioning and Maintenance - Dammam Restaurant Equipment Maintenance Service - We are here to serve you.",
+    "p3": "Glowing Proficiencies Establishment takes pride in its insightful expertise in the field of maintenance and repair of medical devices and equipment for medical institutions throughout the Kingdom of Saudi Arabia.",
+    "p4": "With the hands of senior engineers and technicians whose experiences span over 20 years, we continually strive to sustain our distinction and brilliance in work, aligning with the nation's vision that encourages leadership in the global healthcare and medical sector, with a direct positive impact on human health in the Kingdom and worldwide.",
+    "p5": "The establishment provides essential medical maintenance services for medical devices and equipment, being one of the key service providers in this field. It enhances its presence with the finest maintenance equipment and the best practical and scientific experiences.",
+    "p6": "Its solutions and services in medical maintenance have garnered significant praise from its clients, both in the public and private sectors.",
+    "box": {
+      "header": "Best Technical Appliance Repair Establishment",
+      "p": "Our team comprises highly skilled professionals with 30 years of experience in the respective fields. We continuously update our knowledge and techniques to stay at the forefront of technological advancements, ensuring that our clients receive the most effective and efficient solutions for their needs.",
+      "btn": "Contact Us"
+    }
+  }
+}
